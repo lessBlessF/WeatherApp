@@ -1,0 +1,15 @@
+<resources>
+    <string name="details_title">Weather Details</string>
+    <string name="back_desc">Back</string>
+
+    <string name="app_name">Прогноз погоды</string>
+    <string name="app_title">Прогноз погоды</string>
+    <string name="search_hint">Поиск города</string>
+    <string name="current_temp">Сейчас: %1$s°C</string>
+    <string name="wind_speed">Ветер: %1$s км/ч</string>
+    <string name="delete_desc">Удалить</string>
+    <string name="forecast_title">Прогноз на 7 дней:</string>
+
+    <string name="error_already_exists">Этот город уже есть в списке</string>
+    <string name="error_load_failed">Не удалось загрузить погоду</string>
+</resources>
